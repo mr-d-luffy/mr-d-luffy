@@ -1,5 +1,5 @@
 # 💫 About Me:
-Collage Student With Programming And Cyber Security
+Collage Student With Programming And Cyber Security.
 
 
 ## 🌐 Socials:
