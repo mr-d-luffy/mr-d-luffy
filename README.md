@@ -93,6 +93,15 @@ $ whoami --verbose
 <br><br>
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📊 GitHub Analytics
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mr-d-luffy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-d-luffy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<br>
+<img src="https://streak-stats.demolab.com?user=mr-d-luffy&theme=tokyonight&hide_border=true&background=0D1117"/>
+</div>
+
+<br>
+</div>
 
