@@ -1,4 +1,9 @@
 # 💫 About Me:
+<br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&weight=700&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Programming+is+the+Power+to+Create+BIG" alt="Cyber Text Animation" />
+</div>
+<br>
 
 ## 🚀 Android Developer | Java | Flutter | Cybersecurity
 
@@ -21,21 +26,23 @@ $ whoami --verbose
 
 ## 🌐 Socials:
 <div align="center">
+
   <a href="https://discord.gg/.codexpro">
-    <img src="https://img.shields.io/badge/-%237289DA.svg?style=plastic&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/%20-%237289DA.svg?style=plastic&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://instagram.com/code_x_pro1">
-    <img src="https://img.shields.io/badge/-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/%20-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://linkedin.com/in/mohit-shivankar-a87964340">
-    <img src="https://img.shields.io/badge/-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/%20-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/codexpr000">
-    <img src="https://img.shields.io/badge/-black.svg?style=plastic&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/%20-black.svg?style=plastic&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="mailto:Siliconbrains@mr-silicon.in">
-    <img src="https://img.shields.io/badge/-%23D14836.svg?style=plastic&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/%20-%23D14836.svg?style=plastic&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
 </div>
 
 # 💻 Tech Stack:
@@ -81,7 +88,7 @@ $ whoami --verbose
 
 <div align="center">
 📩 **Siliconbrains@mr-silicon.in** &nbsp;|&nbsp; 🤙 **+91 87883-58100** &nbsp;|&nbsp; 📍 **Nagpur, Maharashtra, India 🇮🇳**
-<br>
+<br><br>
 </div>
 
 ### ✍️ Random Dev Quote
