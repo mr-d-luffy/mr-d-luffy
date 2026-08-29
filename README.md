@@ -77,6 +77,11 @@ $ whoami --verbose
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white" alt="GitLab" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=plastic&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000.svg?style=plastic&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=plastic&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Thunder_Client-6C2BD9.svg?style=plastic&logoColor=white" alt="Thunder Client" />
+  <img src="https://img.shields.io/badge/JSON-000000.svg?style=plastic&logo=json&logoColor=white" alt="JSON" />
 
 </div>
 
