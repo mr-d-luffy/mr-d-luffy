@@ -93,7 +93,7 @@ $ whoami --verbose
 
 <div align="center">
   
-📩 **Siliconbrains@mr-silicon.in** &nbsp;|&nbsp; 🤙 **+91 87883-58100** &nbsp;|&nbsp; 📍 **Nagpur, Maharashtra, India 🇮🇳**
+📩 **Contact@mr-silicon.in** &nbsp;|&nbsp; 🤙 **+91 87883-58100** &nbsp;|&nbsp; 📍 **Nagpur, Maharashtra, India 🇮🇳**
 
 <br><br>
 </div>
